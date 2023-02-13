@@ -1,29 +1,18 @@
 ﻿using Mapper;
 
-var user = new User()
-{
-    Id = 1,
-    Name = "Test",
-    Email = "e@s.com"
-};
+var user = new User() { Id = 1, Name = "Test12", Email = "21e@s.com" };
 
 var userDto = new UserDTO();
 
-userDto.Email = user.Email;
-userDto.Name = user.Name;
+userDto = user.MapTo<UserDTO>();
 
-var userType = user.GetType();
-var properties = userType.GetProperties();
+Console.WriteLine(userDto.Name);
+Console.WriteLine(userDto.Email);
 
-var userDtoType = userDto.GetType();
-var userDtoProperties = userDtoType.GetProperties();
+//var userView = new UserView();
 
-foreach (var propertyInfo in properties)
-{
-    Console.WriteLine(propertyInfo.Name);
-}
+var userView = user.MapTo<UserView>();
 
-foreach (var dtoPropertyInfo in userDtoProperties)
-{
-    Console.WriteLine(dtoPropertyInfo.Name);
-}
+Console.WriteLine(userView.Id);
+Console.WriteLine(userView.Email);
+
