@@ -1,0 +1,15 @@
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\bin\Debug\net6.0\CsharpReflection.exe
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\bin\Debug\net6.0\CsharpReflection.deps.json
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\bin\Debug\net6.0\CsharpReflection.runtimeconfig.json
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\bin\Debug\net6.0\CsharpReflection.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\bin\Debug\net6.0\CsharpReflection.pdb
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.csproj.AssemblyReference.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.AssemblyInfoInputs.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.AssemblyInfo.cs
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.csproj.CoreCompileInputs.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\refint\CsharpReflection.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.pdb
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\CsharpReflection.genruntimeconfig.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\CsharpReflection\obj\Debug\net6.0\ref\CsharpReflection.dll
