@@ -5,6 +5,7 @@ namespace TestRunner;
 [MyTestClass]
 public class LogicServiceTest
 {
+    [MyTestMethod]
     public void AddMethodTest()
     {
         var logic = new LogicService();
@@ -17,6 +18,7 @@ public class LogicServiceTest
 [MyTestClass]
 public class LogicServiceTest2
 {
+    [MyTestMethod]
     public void AddMethodTest2()
     {
         var logic = new LogicService();
