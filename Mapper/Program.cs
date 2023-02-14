@@ -9,8 +9,6 @@ userDto = user.MapTo<UserDTO>();
 Console.WriteLine(userDto.Name);
 Console.WriteLine(userDto.Email);
 
-//var userView = new UserView();
-
 var userView = user.MapTo<UserView>();
 
 Console.WriteLine(userView.Id);

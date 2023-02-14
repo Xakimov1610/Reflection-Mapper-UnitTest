@@ -1,0 +1,15 @@
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\bin\Debug\net6.0\TestRunner.exe
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\bin\Debug\net6.0\TestRunner.deps.json
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\bin\Debug\net6.0\TestRunner.runtimeconfig.json
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\bin\Debug\net6.0\TestRunner.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\bin\Debug\net6.0\TestRunner.pdb
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.csproj.AssemblyReference.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfoInputs.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.AssemblyInfo.cs
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.csproj.CoreCompileInputs.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\refint\TestRunner.dll
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.pdb
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\TestRunner.genruntimeconfig.cache
+C:\Users\Nosirbek\source\repos\CsharpReflection\TestRunner\obj\Debug\net6.0\ref\TestRunner.dll
